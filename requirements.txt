@@ -1,0 +1,7 @@
+datasets
+huggingface_hub
+pymupdf
+spacy
+pyvi
+bonito
+numpy
